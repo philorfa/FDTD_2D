@@ -1,0 +1,6 @@
+Mask_Code,Name,Epsilon_Infinity,Delta_Epsilon,Sigma_S,Relaxation_Time
+0,Immer,6.566,16.86,0.3231,1.4288e-10
+1,Glycerine,6.566,16.86,0.3231,1.4288e-10
+0.5,Brain,35,5,0.147,
+3,CSF,18.28,44.71,0.0782,
+4,Plastic,3.5,0,0.0055,
